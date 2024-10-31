@@ -10,5 +10,4 @@
 Kiraracoon/Kiraracoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- id="crm-wa-button-script" src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" data-source="ym" data-text="Здравствуйте. Номер заявки {u_code}"></
 
